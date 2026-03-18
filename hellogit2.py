@@ -1,0 +1,1 @@
+print("Hello, Jivm!" + " This is a simple Python script."  )
