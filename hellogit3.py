@@ -1,0 +1,1 @@
+print ("This is the file hellogit3.py!  This is my first Git repository.")
