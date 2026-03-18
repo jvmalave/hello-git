@@ -1,0 +1,2 @@
+**/.DS_Store  # macOS specific file, should be ignored
+*.log          # Log files, should be ignored
