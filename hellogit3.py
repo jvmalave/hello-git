@@ -1,1 +1,3 @@
-print ("This is the file hellogit3.py!  This is my first Git repository. version 2.0 login branch")
+
+print ("This is the file hellogit3.py!  This is my first Git repository. version 3.0")
+
